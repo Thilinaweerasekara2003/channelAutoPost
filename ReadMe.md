@@ -12,7 +12,8 @@ This bot can send all new messages from one channel, directly to another channel
 > `TO_CHANNEL` - The ID of the channel to which the posts are to be sent. (Use @chnlidbot to get it.)   
    
 
-
+The easiest way to deploy this Bot
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/channelAutoPost
 
 
 

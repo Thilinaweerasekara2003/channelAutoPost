@@ -15,9 +15,6 @@ This bot can send all new messages from one channel, directly to another channel
 
 
 
-### Heroku
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/channelAutoPost)
 
 
 
